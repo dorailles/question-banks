@@ -1,4 +1,4 @@
-import{G as e,L as t,T as n,U as r,t as i}from"./v2-l9WzeLaM.js";import{i as a,n as o,t as s}from"./v2-Bqzh4AyJ.js";import{SpecSheet as c}from"./SpecSheet-Cr2f9bzk.js";var l=`import React from 'react'
+import{G as e,L as t,T as n,U as r,t as i}from"./v2-l9WzeLaM.js";import{i as a,n as o,t as s}from"./v2-Bqzh4AyJ.js";import{SpecSheet as c}from"./SpecSheet-WODXZEvo.js";var l=`import React from 'react'
 import { View } from '@instructure/ui-view/latest'
 import { Flex } from '@instructure/ui-flex/latest'
 import { Text } from '@instructure/ui-text/latest'

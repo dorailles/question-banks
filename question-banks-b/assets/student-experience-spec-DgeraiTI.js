@@ -1,4 +1,4 @@
-import{G as e,L as t,T as n,U as r,t as i}from"./v2-l9WzeLaM.js";import{i as a,n as o,r as s,t as c}from"./v2-Bqzh4AyJ.js";import{H as l,T as u,jt as d,nn as f}from"./v2-B6fNyh8s.js";import{t as p}from"./v2-XlOHZN-t.js";import{t as m}from"./v2-BB9lu49P.js";import{t as h}from"./v2-BQBuP6Sj.js";import{t as g}from"./v2-BmYemjd_.js";import{n as _,t as v}from"./v2-DkfKRcR3.js";import{SpecSheet as y}from"./SpecSheet-Cr2f9bzk.js";var b=`import React from 'react'
+import{G as e,L as t,T as n,U as r,t as i}from"./v2-l9WzeLaM.js";import{i as a,n as o,r as s,t as c}from"./v2-Bqzh4AyJ.js";import{H as l,T as u,jt as d,nn as f}from"./v2-B6fNyh8s.js";import{t as p}from"./v2-XlOHZN-t.js";import{t as m}from"./v2-BB9lu49P.js";import{t as h}from"./v2-BQBuP6Sj.js";import{t as g}from"./v2-BmYemjd_.js";import{n as _,t as v}from"./v2-DkfKRcR3.js";import{SpecSheet as y}from"./SpecSheet-Cfi35VV4.js";var b=`import React from 'react'
 import { View } from '@instructure/ui-view/latest'
 import { Flex } from '@instructure/ui-flex/latest'
 import { Heading } from '@instructure/ui-heading/latest'
