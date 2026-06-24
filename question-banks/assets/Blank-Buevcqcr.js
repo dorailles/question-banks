@@ -1,0 +1,1 @@
+import{G as e,L as t,T as n,t as r}from"./v2-l9WzeLaM.js";var i=e(n(),1);function a(e){let{sharedTokens:n}=t();return(0,i.jsx)(r,{as:`div`,minHeight:`100vh`,display:`block`,background:`secondary`,themeOverride:{backgroundSecondary:n.background.pageColor}})}export{a as default};
